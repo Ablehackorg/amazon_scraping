@@ -1,0 +1,136 @@
+Brand,Model,Storage,CPU Model,OS,Rating,Review Count,Graphics,Price ($),Screen_size(Inches),Ram(GB)
+HP,14-dq0040nr,64 GB,Celeron N4020,Windows 11 S,4.1,3.338,Intel UHD Graphics,128.99,14.0,4
+HP,hp laptop,1 TB,Core I3 1115G4,Windows 11 Home,4.2,1.195,Intel UHD Graphics,279.0,15.6,16
+HP,Chromebook 14a-na0226nr,64 GB,Celeron,Chrome OS,4.3,2.11,Intel UHD Graphics 600,140.0,14.0,4
+HP,G9,1 TB,Athlon Silver 3050U,Windows 11 Pro,4.8,11.0,AMD Radeon Graphics,299.99,15.6,16
+HP,TPN-I139_4V788AV,2 TB,Core i7 Family,Windows 11 Home,4.2,734.0,Intel Iris Xe Graphics,615.0,17.3,64
+ASUS,Vivobook,1 TB,Core i3,Windows 11 Pro,4.5,32.0,Intel UHD Graphics,499.99,17.3,40
+ASUS,Strix G16,1 TB,Core i7,Windows 11 Home,4.4,1.977,NVIDIA GeForce RTX 4060,1299.88,16.0,16
+Lenovo,IdeaPad 3,64 GB,Celeron P4500,Chrome OS,4.3,816.0,Intel HD Graphics,169.88,15.6,8
+Lenovo,Lenovo V15 G2 ALC,512 GB,Ryzen 5,Windows 11 Pro,4.3,749.0,AMD Radeon Graphics,384.97,15.6,16
+HP,HP Laptop,NO SSD,Celeron N,Windows 11 Home,4.1,2.475,Intel UHD Graphics 600,239.99,14.0,8
+Lenovo,IdeaPad 1i,512 GB,Core i5 Family,Windows 11 Home,4.3,63.0,Intel UHD Graphics,390.0,15.6,16
+Lenovo,V15 G4,512 GB,Core i5 Family,Windows 11 Pro,4.3,633.0,Intel UHD Graphics,549.98,15.6,16
+ist computers,HP 14 Laptop,128 GB,Celeron,Windows 11 Home,4.2,60.0,Intel UHD Graphics 600,229.98,14.0,4
+Apple,MacBook Pro,1 TB,Apple M4,NO OS,4.8,315.0,NO GRAPHIC CARD,3432.45,16.2,48
+HP,HP Stream,64 GB,Celeron N,Windows 11 S,4.3,1.513,Intel UHD Graphics,606.11,14.0,16
+acer,Nitro V,512 GB,Intel Core i5,Windows 11 Home,4.1,723.0,NVIDIA GeForce RTX 4050,738.0,15.6,8
+Lenovo,IdeaPad 1 15IAU7,512 GB,Core i3 Family,Windows 11 Home,4.3,108.0,Intel UHD Graphics,282.79,15.6,16
+Dell,Dell Latitude 7400,1 TB,Core i5,Windows 11,4.3,213.0,Intel HD Graphics 620,399.99,14.0,32
+NIMO,Nimo N151,1 TB,Pentium Other,Windows 11,4.6,309.0,Integrated Graphics,459.99,15.6,16
+Dell,Dell Inspiron 15 3530 Laptop,NO SSD,Core i5 Family,Windows 11 Home,4.4,233.0,Intel Iris Xe Graphics,299.99,15.6,16
+HP,HP Laptop,512 GB,Core i5,Windows 11 Pro,4.0,29.0,Intel Iris Xe Graphic,245.99,15.6,64
+Dell,dell 3100,16 GB,Celeron N4000,Chrome OS,3.9,1.157,Intel,772.59,11.6,4
+HP,HP Laptop 15-ef2099nr,256 GB,Ryzen 5,Windows 11 Home,4.4,316.0,AMD Radeon Graphics 5500,270.0,15.6,8
+Apple,MacBook Air,256 GB,Apple M4,NO OS,4.8,934.0,NO GRAPHIC CARD,556.99,13.6,16
+acer,Laptop,128 GB,Ryzen 3,Windows 11 S,4.2,4.612,AMD Radeon Graphics,330.0,15.6,8
+Lenovo,Lenovo V15 G4 ABP,1 TB,AMD Ryzen 7,Windows 11 Pro,4.2,300.0,AMD Radeon Graphics,330.0,15.6,40
+Dell,Dell Inspiron,1 TB,Core i5,Windows 11 Pro,4.3,444.0,Intel UHD Graphics,330.0,15.6,16
+Lenovo,IdeaPad 1 15IAU7,1 TB,Core i3 Family,Windows 11 Home,4.5,111.0,Intel UHD Graphics,180.0,15.6,16
+Lenovo,IdeaPad 1 15IJL7,1 TB,Celeron,Windows 11 Home,4.1,1.307,Intel UHD Graphics,235.0,15.6,20
+acer,Acer Nitro V Gaming Laptop ANV16-41-R5J0,1 TB,Ryzen 7,Windows 11 Home,4.1,159.0,NVIDIA GeForce RTX 4060,968.52,16.0,16
+ASUS,G614JVR-ES94,1 TB,Core i9,Windows 11 Home,4.0,242.0,NVIDIA GeForce RTX 4060,1499.88,16.0,16
+Lenovo,ThinkPad E16 Gen 1,512 GB,AMD R Series,Windows 11 Pro,4.6,104.0,AMD Radeon Graphics,643.99,16.0,16
+Lenovo,IdeaPad 1 15IJL7,512 GB,Celeron,Windows 11 Home,4.2,710.0,Intel UHD Graphics,280.0,15.6,12
+Dell,Inspiron,1 TB,Core i5 Family,Windows 11 Home,4.0,826.0,Intel Iris Xe Graphics,304.15,15.6,32
+ASUS,Chromebook CX1,64 GB,Celeron,Chrome OS,4.3,322.0,NO GRAPHIC CARD,156.4,14.0,8
+Lenovo,ThinkPad X9-15 Gen 1,1 TB,Intel Core Ultra 7,Windows 11 Pro,0.0,0.0,Intel Arc Graphics 140V,1844.11,15.3,32
+Apple,MacBook Air,512 GB,Apple M4,NO OS,4.8,434.0,NO GRAPHIC CARD,1174.05,15.3,16
+acer,Aspire Go 15,128 GB,Intel Core i3,Windows 11 S,4.3,568.0,Intel UHD Graphics,274.9,15.6,8
+Dell,Dell G15 5520,1000 GB,Core i7,Windows 11 Home,5.0,1.0,NVIDIA GeForce RTX 3060,1199.0,15.6,32
+HP,17,512 GB,Core i5 Family,Windows 11 Home,4.4,178.0,Intel Iris Xe Graphics,531.0,17.3,32
+Lenovo,Newest Flagship Lenovo Chromebook,64 GB,Cortex,Chrome OS,4.3,867.0,Integrated ARM Mali-G52 2EE MC2 GPU,99.99,14.0,4
+Dell,Dell Inspiron 16 7640 Laptop,1 TB,Core i7 Family,Windows 11 Home,4.4,286.0,Intel UHD Graphics,627.55,16.0,16
+HP,HP Laptop 17-cp2099nr,512 GB,Ryzen 5,Windows 11 Home,4.4,184.0,AMD Radeon Graphics,405.0,17.3,16
+HP,HP Chromebook,64 GB,Celeron N,Chrome OS,4.2,733.0,Intel UHD Graphics 600,148.0,14.0,4
+Lenovo,IdeaPad,256 GB,Core i3,Windows 11 Home,4.2,908.0,Intel UHD Graphics,237.99,15.6,12
+HP,HP Stream,128 GB,Celeron,Windows 11 S,4.2,2.83,Intel UHD Graphics,250.0,14.0,16
+Dell,i7,1000 GB,Core i7-8650U,Windows 10 Pro,4.1,123.0,Intel,538.0,14.0,32
+HP,HP Laptop 17,1 TB,AMD R Series,Windows 11 Home,4.3,91.0,AMD Radeon Graphics,439.0,17.3,32
+HP,"HP 15.6""",1 TB,Intel Core i5,Windows 11,4.2,312.0,Intel UHD Graphics,329.99,15.6,16
+ASUS,X512DA-BTS2020RL,512 GB,Ryzen 5 1400,Windows 10,4.3,289.0,AMD Radeon Vega 8,484.99,15.6,8
+HP,15-fd0182wm,1 TB,Core i7,Windows 11 Home,4.5,10.0,Intel Iris Xe Graphics,1449.0,15.6,16
+MSI,Prestige 13 AI+ Evo A2VMG-014US,1 TB,Intel Core Ultra 7,Windows 11 Pro,4.0,21.0,Intel Arc Graphics,660.0,13.3,32
+Dell,Inspiron 15 3520,1 TB,Core i7 Family,Windows 11 Home,4.2,169.0,Intel Iris Xe Graphics,765.0,15.6,32
+HP,HP Pavilion 16,1 TB,AMD Ryzen 7,Windows 11 Home,0.0,0.0,AMD Radeon R7,209.88,16.0,16
+ASUS,L510KA-ES04,NO SSD,Celeron,Windows 11 Home,3.9,449.0,NO GRAPHIC CARD,350.0,15.6,4
+Dell,Dell Inspiron 3520,512 GB,Core i3,Windows 11 Home,4.6,20.0,Intel UHD Graphics,609.0,15.6,16
+HP,HP Victus,512 GB,Core i5,Windows 11 Pro,4.4,20.0,NVIDIA GeForce RTX 3050,339.99,15.6,16
+Dell,Dell Inspiron 15 3535 Laptop,512 GB,Ryzen 5,Windows 11 Home,4.1,283.0,AMD Radeon™ Graphics,826.18,15.6,8
+Lenovo,ThinkPad E14 Gen 6,512 GB,Ryzen 7,Windows 11 Pro,4.0,0.0,AMD Radeon 680M Graphics,942.69,14.0,16
+ASUS,Vivobook S 14,512 GB,Ryzen 9,Windows 11 Home,4.2,223.0,NO GRAPHIC CARD,649.99,14.0,24
+SGIN,M15N,NO SSD,NO CPU,NO OS,3.3,21.0,NO GRAPHIC CARD,649.99,17.3,0
+HP,HP Victus Gaming Laptop,1 TB,Core i5-12450H,Windows 11 Pro,5.0,2.0,NVIDIA GeForce RTX 3050,739.99,15.6,64
+HP,15-fc0025dx,512 GB,AMD Ryzen 5 5500U,Windows 11 Home,3.9,23.0,NO GRAPHIC CARD,339.0,15.6,8
+Dell,Inspiron,1 TB,Ryzen 5,Windows 11 Pro,4.3,7.0,AMD Radeon Graphics,640.0,14.0,16
+Samsung,NO MODEL,NO SSD,Celeron,Chrome OS,4.0,2.143,Intel HD Graphics 615,202.71,15.6,0
+Lenovo,IdeaPad 3 81X800ENUS,256 GB,Core i3,Windows 11,4.3,4.316,Intel UHD Graphics,314.98,15.6,20
+acer,Gateway Chromebook 311 CBO311-1H-C1MX,64 GB,Celeron,Chrome OS,4.4,10.676,Intel UHD Graphics,39.99,11.6,4
+HP,14-cf2111wm,64 GB,Intel Celeron 1007U,Windows 11 Home,4.1,17.0,Intel UHD Graphics 600,155.0,14.0,0
+ASUS,Chromebook CM14,64 GB,MediaTek Helio,Chrome OS,4.2,1.389,ASUS,158.68,14.0,4
+ASUS,Zenbook DUO,1 TB,Intel Core Ultra 9,Windows 11 Home,4.4,83.0,Arc Graphics,1565.02,14.0,32
+Lenovo,Lenovo Ideapad,256 GB,Core i3,Windows 10,4.6,885.0,Intel UHD Graphics,238.0,15.6,8
+Lenovo,Newest Lenovo Slim 3 Chromebook,64 GB,Cortex,Chrome OS,4.3,61.0,Integrated ARM Mali-G52 2EE MC2 GPU,249.0,14.0,4
+HP,HP,512 GB,Core i7,Windows 11 Home,4.3,76.0,Intel Iris Xe Graphics,429.0,15.6,16
+acer,Aspire3,512 GB,Ryzen 5,Windows 11 Home,4.4,4.0,AMD Radeon Graphics,299.99,15.6,8
+HP,HP Victus Gaming Laptop,1 TB,Core i5-12450H,Windows 11 Pro,4.5,8.0,NVIDIA GeForce RTX 3050,559.97,15.6,16
+HP,HP Victus Gaming Laptop,512 GB,Core i5-12450H,Windows 11 Pro,2.4,2.0,NVIDIA GeForce RTX 3050,595.0,15.6,16
+Dell,Inspiron 16,1 TB,Core i7 Family,Windows 11 Pro,3.9,14.0,Intel Iris Xe Graphics,759.99,16.0,32
+HP,A14M,1 TB,AMD R Series,Windows 11 Home,4.1,22.0,NVIDIA GeForce RTX 4050,709.0,15.6,16
+HP,HP Notebook,256 GB,Core i5,Windows 11 Home,4.2,559.0,Intel Iris Xe Graphics,294.0,15.0,8
+MSI,Vector 16 HX AI A2XWIG-058US,2 TB,Intel Core i9,Windows 11 Pro,3.4,13.0,NVIDIA GeForce RTX 4080,2627.99,16.0,32
+acer,Acer Laptop,64 GB,Celeron,Chrome OS,4.3,203.0,Intel UHD Graphics 600,59.99,15.6,4
+HP,Notebook,1 TB,Core i3 Family,Windows 11 Home,4.1,177.0,Intel UHD Graphics,249.99,15.6,32
+acer,CB315-4H-C8XU,64 GB,Celeron,Chrome OS,4.3,161.0,Intel UHD Graphics,69.89,15.6,4
+Dell,Latitude,1 TB,Intel Core Ultra 7,Windows 11 Pro,4.4,21.0,Intel Graphics,1000.0,15.6,32
+HP,HP Business Laptop,NO SSD,Athlon 3050U,Windows 11 Pro,4.7,8.0,NO GRAPHIC CARD,299.99,15.6,16
+Dell,Dell Latitude 7420 Laptop,256 GB,Intel Core i5,Windows 11,4.0,48.0,Intel Iris Xe Graphics,214.99,14.0,16
+Lenovo,Lenovo V14 G4 IRU,1 TB,Core i7,Windows 11 Pro,5.0,7.0,Intel UHD Graphics,659.0,14.0,16
+NIMO,Nimo N151,128 GB,Pentium Other,Windows 11,4.4,194.0,Integrated Graphics,249.98,15.6,8
+Lenovo,Yoga,1 TB,Others,Windows 11 Pro,4.2,53.0,Intel Graphics,750.0,16.0,16
+Lenovo,Thinkpad E580,256 GB,Core i3,Windows 10 Pro,0.0,0.0,NO GRAPHIC CARD,3479.0,15.6,16
+ASUS,ROG Strix SCAR 18,2 TB,Intel Core Ultra 9,Windows 11 Pro,4.6,8.0,NO GRAPHIC CARD,449.99,18.0,32
+HP,HP,256 GB,Core i3,Windows 11 Home,3.3,5.0,NO GRAPHIC CARD,248.99,15.6,8
+MSI,Prestige 16Evo A13M-408US,1 TB,Core i9,Windows 11 Pro,3.9,21.0,Intel Iris Xe Graphics,914.17,16.0,32
+NIMO,Nimo N156L,1 TB,Intel Core i5,Windows 11,4.9,23.0,INTEL Integrated Graphics,399.98,15.6,16
+Lenovo,V14,256 GB,Ryzen 5,Windows 11 Pro,4.1,15.0,Integrated AMD Radeon 610M Graphics,334.99,14.0,8
+HP,ENVY 2-in-1,512 GB,Core i5,Windows 11,4.4,48.0,Intel Iris Xe Graphics,438.0,14.0,8
+MSI,B13VF-2829US,512 GB,Intel Core i5,Windows 11 Home,0.0,0.0,NO GRAPHIC CARD,799.0,15.0,16
+HP,ELITEBOOK,512 GB,Intel Core i5-1135G7,Windows 10 Pro,0.0,0.0,Intel Core i5-1135G7,332.0,14.0,16
+acer,Acer Chromebook Plus 514,128 GB,Intel Core i3,Chrome OS,4.3,468.0,Intel UHD Graphics,1233.47,14.0,8
+ASUS,TUF Gaming A16,1 TB,Ryzen 9,Windows 11 Home,4.4,26.0,Intel HD Graphics,159.99,16.0,16
+HP,14-dq0760dx,128 GB,Celeron N,Windows 11 Home,4.4,40.0,Intel HD Graphics 4400,449.97,14.0,4
+HP,TPN-C151,512 GB,Core i5 Family,Windows 11 Home,4.2,21.0,Intel Iris Xe Graphics,239.99,15.6,16
+Dell,Latitude 5420,1 TB,Core i5,Windows 11 Pro,5.0,1.0,Intel Iris Xe Graphics,1499.0,14.0,32
+Dell,Dell Inspiron 15 3525 Laptop,512 GB,Ryzen 5,Windows 11 Home,4.0,334.0,AMD Radeon,86.69,15.6,8
+GIGABYTE,AORUS 16X 9SG-43USC64SH,1000 GB,Intel Core i7,Windows 11 Home,3.8,142.0,NVIDIA GeForce RTX 4070,269.99,16.0,32
+HP,HP Stream 14,128 GB,Celeron N,Windows 11 S,4.8,15.0,Intel UHD Graphics 600,159.91,14.0,4
+Azeyou,CG11Q6-E,128 GB,Celeron N4020,OS 11 Pro,5.0,1.0,N4020C,729.0,11.6,4
+HP,TPN-Q279,1 TB,Ryzen 5,Windows 11 Pro,4.1,32.0,NVIDIA GeForce RTX 4050,98.44,15.6,32
+ASUS,ASUS Laptop L410MA,64 GB,Celeron N4020,Windows 10 S,4.1,863.0,Intel UHD Graphics 600,1259.0,14.0,0
+MSI,Stealth 14,2 TB,NO CPU,Windows 11 Home,5.0,1.0,NO GRAPHIC CARD,235.99,14.0,32
+ASUS,ROG Strix G18,NO SSD,Intel Core Ultra 9,Windows 11 Pro,4.0,0.0,NVIDIA GeForce RTX 5070,169.0,18.0,32
+Lenovo,Ideapad,256 GB,Intel Core i3,Windows 11 Home,4.3,581.0,Intel UHD Graphics,1259.0,15.6,8
+ASUS,L510MA-DS04,128 GB,Celeron N4020,Windows 10 Home,4.2,1.043,Intel UHD Graphics 600,79.97,15.6,4
+Microsoft,Surface Laptop 5,1 TB,Core i7,Windows 11 Pro,3.3,12.0,Intel Iris Xe Graphics,116.98,15.0,32
+acer,Acer Chromebook 311,64 GB,Celeron,Chrome OS,3.4,3.0,Intel HD Graphics,295.0,11.6,4
+ASUS,L510KA-NB21,NO SSD,Pentium,Windows 11 S,4.1,520.0,NO GRAPHIC CARD,285.69,15.6,4
+acer,acer Chromebook Plus 514 Touchscreen Laptop,512 GB,Celeron,Chrome OS,4.4,34.0,Intel UHD Graphics,300.0,14.0,8
+HP,HP,1 TB,Core i3,Windows 11 Home,4.2,248.0,Intel UHD Graphics,260.0,15.6,16
+Dell,Inspiron,256 GB,Core i5 Family,Windows 11,4.2,1.188,Intel UHD Graphics,942.99,15.6,12
+HP,HP 15,256 GB,Core I3 1115G4,Windows 10,4.2,542.0,Intel UHD Graphics,119.79,15.6,8
+ASUS,ASUS VivoBook 14,128 GB,Core i3,Windows 11 Home,4.4,810.0,Intel HD Graphics,239.81,14.0,4
+Lenovo,IdeaPad 1 15AMN7,256 GB,Ryzen 5,Windows 11,4.5,1.705,AMD Radeon 610M,325.0,15.6,8
+Panasonic,Toughbook 31,1 TB,Core i5,Windows 10 Pro,5.0,1.0,Intel HD Graphics 5500,1501.0,13.1,16
+Samsung,GB4 Pro 14”,512 GB,1.2GHz Cortex A8 Processor,Windows 11 Pro,4.1,202.0,Intel ARC Integrated,1029.99,14.0,16
+LG,16Z90TP-K.AAW4U1,1 TB,Intel Core Ultra 7,Windows 11 Home,4.6,5.0,NO GRAPHIC CARD,1999.99,16.0,16
+HP,HP,128 GB,Athlon,Windows 10,4.4,319.0,AMD Radeon Graphics,163.99,14.0,4
+ASUS,TUF,512 GB,Ryzen 7,Windows 10 Home,4.2,326.0,NVIDIA® GeForce RTX™ 2060,519.99,15.6,16
+HP,HP ENVY 17.3 inch Laptop PC 17-cw1010nr,NO SSD,Core i7,Windows 11 Home,4.6,8.0,NO GRAPHIC CARD,800.0,17.3,16
+ASUS,P5405CSA-DH54,512 GB,Intel Core Ultra 5,Windows 11 Home,4.4,22.0,NO GRAPHIC CARD,959.0,14.0,16
+HP,TPN-Q222_4V9X9AV,1 TB,Core i3 Family,Windows 11 Home,3.4,5.0,Intel UHD Graphics,293.55,15.6,16
+NO BRAND,NO MODEL,NO SSD,NO CPU,NO OS,4.6,31.488,NO GRAPHIC CARD,13.77,15.6,0
+acer,Acer Chromebook 311,192 GB,Celeron N,Chrome OS,4.3,149.0,Intel UHD Graphics,209.99,11.6,4
+HP,OMEN Transcend,1 TB,Intel Core Ultra 7,Windows 11 Home,0.0,0.0,NO GRAPHIC CARD,1599.99,14.0,16
+HP,HP Victus,1 TB,Ryzen 5,Windows 11 Home,4.6,3.0,NVIDIA GeForce RTX 4050,829.0,15.6,16
+Dell,Inspiron,1 TB,Ryzen 5,Windows 11 Home,4.0,199.0,AMD Radeon Graphics,319.0,15.6,32
